@@ -1,0 +1,9 @@
+body {
+    background-color: aquamarine;
+    height:200px;
+    width:200px;
+    margin:1em;
+}
+#content {
+    font-size: 20px;
+}
